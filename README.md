@@ -17,8 +17,11 @@ Link: https://doi.org/10.23962/ajic.i36.23095
 👤 Student Information
 
 Name: Shailendra Kumar
+
 Roll No: C-253
+
 Branch: Computer Science & Engineering (CSE)
+
 Registration No.: 24070050
 
 🌐 Domain
@@ -33,6 +36,7 @@ The study compares interactive calculators against text-based websites, measurin
 Task completion time 
 
 Cognitive load (mental effort) 
+
 User satisfaction and usability 
 
 🔹 Project Overview
@@ -43,19 +47,25 @@ The implemented interface focuses on:
 
 
 Automation: Removing the need for manual math.
+
 Visual Immediacy: Providing instant feedback.
+
 Cognitive Efficiency: Reducing extraneous mental load.
 
 ✨ Key Findings
 
 ✅ User Preference: 84.4% of users selected the well-designed calculator over other options.
+
 ✅ Performance: Task completion was significantly faster (52s vs 135s) with the optimized tool.
+
 ✅ Cognitive Load: Users reported significantly lower mental demand scores.
+
 ❌ Text-based Sites: consistently avoided due to high effort requirements.
 
 🛠️ Technologies Used
 
 HTML5 – Interface structure
+
 CSS3 – Styling and responsive layout
 
 🎯 Objective
