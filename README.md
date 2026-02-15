@@ -1,4 +1,4 @@
-MDM-II-DWP-Shailendra Kumar-CSE-C-253
+MDM-II-DWP-Shailendra-Kumar-CSE-C-253
 
 📌 Project Title
 
@@ -10,7 +10,7 @@ Title: How web-interface design impacts task performance, cognitive load, and us
 
 Author: André Delwyn Gopal 
 
-Journal: The African Journal of Information and Communication (Issue 36, 2025) 
+Journal: The African Journal of Information and Communication 
 
 Link: https://www.researchgate.net/publication/399231545_How_web-interface_design_impacts_task_performance_cognitive_load_and_user_experience_UX_An_exploration_with_a_cohort_of_South_African_university_students
 
