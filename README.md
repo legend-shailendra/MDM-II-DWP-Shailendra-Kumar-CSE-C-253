@@ -7,8 +7,11 @@ Web Interface Design Impact on Calorie Calculator System
 📄 Research Reference
 
 Title: How web-interface design impacts task performance, cognitive load, and user experience (UX) 
+
 Author: André Delwyn Gopal 
+
 Journal: The African Journal of Information and Communication (Issue 36, 2025) 
+
 Link: https://doi.org/10.23962/ajic.i36.23095 
 
 👤 Student Information
