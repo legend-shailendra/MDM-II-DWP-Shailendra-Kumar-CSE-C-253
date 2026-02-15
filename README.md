@@ -69,4 +69,5 @@ HTML5 – Interface structure
 CSS3 – Styling and responsive layout
 
 🎯 Objective
+
 The objective is to apply Cognitive Load Theory to web design, demonstrating that interactive tools minimize "extraneous load" and maximize user efficiency. This serves as a model for optimizing public service and educational web systems.
