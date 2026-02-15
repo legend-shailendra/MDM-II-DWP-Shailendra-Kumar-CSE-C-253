@@ -12,7 +12,7 @@ Title: How web-interface design impacts task performance, cognitive load, and us
 Source: The African Journal of Information and Communication (AJIC) 
 
 
-Link: https://doi.org/10.23962/ajic.i36.23095 
+Link: https://www.researchgate.net/publication/399231545_How_web-interface_design_impacts_task_performance_cognitive_load_and_user_experience_UX_An_exploration_with_a_cohort_of_South_African_university_students
 
 👤 Student Information
 
