@@ -1,83 +1,59 @@
-# MDM-II-DWP-Shailendra-Kumar-CSE-C-253
+MDM-II-DWP-Shailendra Kumar-CSE-253
+
 📌 Project Title
 
-Calorie Calculator UI – Web Interface Implementation
+Web Interface Design Impact on Calorie Calculator System
 
 📄 Research Reference
 
 Title: How web-interface design impacts task performance, cognitive load, and user experience (UX) 
-
-
-Source: The African Journal of Information and Communication (AJIC) 
-
-
+Author: André Delwyn Gopal 
+Journal: The African Journal of Information and Communication (Issue 36, 2025) 
 Link: https://doi.org/10.23962/ajic.i36.23095 
 
 👤 Student Information
 
 Name: Shailendra Kumar
-
 Roll No: C-253
-
 Branch: Computer Science & Engineering (CSE)
-
 Registration No.: 24070050
 
 🌐 Domain
 
-Health, Wellness & Digital Interface Design
+HCI / UI-UX Design / Web Systems
 
 📌 Project Description
 
-This project is based on the research findings regarding optimal web-interface design for "digital natives".
-It focuses on designing and implementing a "Well-Designed Calculator Tool"  that minimizes cognitive load and maximizes task efficiency compared to text-based alternatives.
+This project implements the findings of a research study that evaluates how interface design affects user performance in calorie calculation tasks.
+The study compares interactive calculators against text-based websites, measuring their impact on:
 
-The system provides an automated solution for users to calculate their daily caloric needs using the Mifflin-St Jeor Equation, replacing the need for manual calculation or dense information retrieval.
+Task completion time 
+
+Cognitive load (mental effort) 
+User satisfaction and usability 
 
 🔹 Project Overview
 
-The Calorie Calculator UI is developed using modern web design principles to create a clean, medical-grade, and highly responsive interface.
+The project demonstrates that visually rich, tool-based interfaces significantly outperform text-heavy alternatives.
 
-The interface includes:
+The implemented interface focuses on:
 
-Automated BMR and TDEE calculation logic 
 
-Dynamic toggle for Metric (kg/cm) and Imperial (lbs/ft) units
+Automation: Removing the need for manual math.
+Visual Immediacy: Providing instant feedback.
+Cognitive Efficiency: Reducing extraneous mental load.
 
-Interactive "Activity Level" selection cards with visual descriptors 
+✨ Key Findings
 
-Real-time result generation without page reloads
-
-The project demonstrates the practical application of Cognitive Load Theory (CLT)  by reducing extraneous load through intuitive design.
-
-✨ Key Features
-
-✅ Research-Backed Design – Prioritizes visual immediacy and automation.
-
-✅ Dual Unit Support – Seamless switching between English and Metric systems.
-
-✅ Smart Form Inputs – Gender, Age, Height, Weight, and Goal inputs.
-
-✅ Visual Activity Selectors – Cards for Sedentary to Extremely Active levels.
-
-✅ Instant Feedback – Immediate calculation results to enhance user satisfaction.
+✅ User Preference: 84.4% of users selected the well-designed calculator over other options.
+✅ Performance: Task completion was significantly faster (52s vs 135s) with the optimized tool.
+✅ Cognitive Load: Users reported significantly lower mental demand scores.
+❌ Text-based Sites: consistently avoided due to high effort requirements.
 
 🛠️ Technologies Used
 
-HTML5 – Semantic structure of the calculator application.
-
-CSS3 (Tailwind) – Utility-first styling for a responsive, modern layout.
+HTML5 – Interface structure
+CSS3 – Styling and responsive layout
 
 🎯 Objective
-
-The primary objective of this project is to develop a high-performance web interface that empirically reduces user effort and improves task success rates.
-
-It demonstrates:
-
-Implementation of user-centered design (UCD) principles.
-
-Reduction of "extraneous cognitive load" through UI optimization.
-
-Responsive and accessible form design.
-
-This project serves as a functional prototype for health-tech applications, aligning with the expectations of modern digital users for speed and visual clarity.
+The objective is to apply Cognitive Load Theory to web design, demonstrating that interactive tools minimize "extraneous load" and maximize user efficiency. This serves as a model for optimizing public service and educational web systems.
